@@ -1,0 +1,11 @@
+﻿  Shapes.cpp
+  main.cpp
+E:\C++ code\COP3503\lab6\lab6\lab6\main.cpp(57,34): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++ code\COP3503\lab6\lab6\lab6\main.cpp(59,41): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++ code\COP3503\lab6\lab6\lab6\main.cpp(61,34): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++ code\COP3503\lab6\lab6\lab6\main.cpp(78,55): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++ code\COP3503\lab6\lab6\lab6\main.cpp(80,41): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++ code\COP3503\lab6\lab6\lab6\main.cpp(82,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+E:\C++ code\COP3503\lab6\lab6\lab6\main.cpp(233,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  lab6.vcxproj -> E:\C++ code\COP3503\lab6\lab6\Debug\lab6.exe
